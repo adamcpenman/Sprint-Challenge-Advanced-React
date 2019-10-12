@@ -2,17 +2,9 @@
   text-align: center;
 }
 
-
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.runnerContainer {
+  border: 1px solid black;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
 }

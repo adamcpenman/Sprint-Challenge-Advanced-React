@@ -11,5 +11,5 @@ function RunnerCard(props) {
 		</div>
 	);
 }
-
 export default RunnerCard;
+
